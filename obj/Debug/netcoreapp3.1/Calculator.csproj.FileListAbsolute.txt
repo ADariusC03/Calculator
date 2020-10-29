@@ -1,0 +1,12 @@
+/Users/adariusc/Desktop/repos/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/adariusc/Desktop/repos/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/adariusc/Desktop/repos/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/adariusc/Desktop/repos/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/adariusc/Desktop/repos/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/adariusc/Desktop/repos/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/Users/adariusc/Desktop/repos/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/adariusc/Desktop/repos/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/adariusc/Desktop/repos/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/adariusc/Desktop/repos/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/adariusc/Desktop/repos/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/adariusc/Desktop/repos/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
