@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qwq6lG709IsANr5/zKtjO4oBHXwPsuBfCrCdlS7IL/RujIMqcJBmWUneJNsTiS6T+7Fd0WsyvH8MUSDn6XFo9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adari\\source\\repos\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adari\\.nuget\\packages\\carbon.data.protection\\1.3.0\\carbon.data.protection.1.3.0.nupkg.sha512",
+    "C:\\Users\\adari\\.nuget\\packages\\carbon.packaging\\1.43.0\\carbon.packaging.1.43.0.nupkg.sha512",
+    "C:\\Users\\adari\\.nuget\\packages\\carbon.storage\\2.4.0\\carbon.storage.2.4.0.nupkg.sha512",
+    "C:\\Users\\adari\\.nuget\\packages\\carbon.versioncontrol\\2.3.0\\carbon.versioncontrol.2.3.0.nupkg.sha512",
+    "C:\\Users\\adari\\.nuget\\packages\\carbon.versioning\\1.8.1\\carbon.versioning.1.8.1.nupkg.sha512",
+    "C:\\Users\\adari\\.nuget\\packages\\github\\1.27.0\\github.1.27.0.nupkg.sha512"
+  ],
+  "logs": []
+}
